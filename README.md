@@ -187,9 +187,3 @@ This project demonstrates practical experience with:
 
 Data Science Engineering Student
 New Horizon College of Engineering
-
-GitHub: [@vinayakpnandi](https://github.com/vinayakpnandi)
-
-
-This version is much more appropriate for your GitHub portfolio: **clear, professional, and not overloaded.**
-```
